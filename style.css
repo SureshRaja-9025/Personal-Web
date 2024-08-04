@@ -183,7 +183,7 @@ body {
    transition: .5s ease-in-out;
 }
 .sec-cont img:hover{
-  transform: scale(1.05);
+  transform: scale(1.02);
 }
 
 .main-content-1 .sec-cont .boxes{
